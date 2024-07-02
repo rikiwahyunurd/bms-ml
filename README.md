@@ -10,7 +10,7 @@ Ensure you have the following installed on your machine:
 
 -   Python >= 3.7
 
-### installation
+### Installation
 
 1. **Clone the repository:**
 
